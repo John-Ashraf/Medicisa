@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1052262162393",
+    "firebase_url": "https://solution-challenge-d36ce-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solution-challenge-d36ce",
+    "storage_bucket": "solution-challenge-d36ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052262162393:android:868710e9166e8636e203c8",
+        "android_client_info": {
+          "package_name": "com.example.medicisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuZosL_trTbpiP1xtpX3ocSadblx0G5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
